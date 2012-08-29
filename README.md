@@ -23,4 +23,4 @@ document.body.appendChild(code);
 
 Be sure to include `code.css` somewhere in your stylesheets.
 
-See [Highlight.js docs][http://softwaremaniacs.org/soft/highlight/en/description/] for more info.
+See [Highlight.js docs](http://softwaremaniacs.org/soft/highlight/en/description/) for more info.
