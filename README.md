@@ -16,7 +16,7 @@ var foo=1, bar="baz";
 </x-code>
 ```
 
-Dynamically create x-code tag:
+Dynamically create an x-code tag:
 
 ```javascript
 var code = document.createElement('x-code');
