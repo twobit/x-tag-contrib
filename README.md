@@ -4,7 +4,7 @@ X-Tag Contributed Tags
 x-code
 ======
 
-Creates a highlighted code snippet using highlight.js
+Creates a highlighted code snippet using `highlight.js`.
 
 __Usage__
 
