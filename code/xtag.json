@@ -1,7 +1,7 @@
 {   
  "name": "Code Highlighter",
  "tagName": "x-code",
- "version": "0.0.2",
+ "version": "0.0.3",
  "author": "Stephen Murphy",
  "description": "Highlight code snippets using highlight.js",
  "images": ["http://softwaremaniacs.org/media/soft/screenshots/highlight_2.png"], 
